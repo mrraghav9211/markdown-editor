@@ -18,6 +18,7 @@ textarea{
   width: 50vw;
   height: 100vh;
   padding: 20px;
+  border: none;
   outline: none;
   background-color: rgb(200, 231, 221);
 }
